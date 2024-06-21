@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Readr.",
-    "description": "A more comprehensive way to sort and save your reading lists, because you're not the average readr.",
+    "description": "A more comprehensive way to sort and save your reading lists - because you're not the average readr.",
     "permissions": ["storage", "activeTab", "contextMenus"],
     "version": "1.0",
     "background": {

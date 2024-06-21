@@ -1,0 +1,47 @@
+/* user_page.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 300px; /* Adjust the width as needed */
+    height: 400px; /* Adjust the height as needed */
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4f4f4; /* Background color of the popup */
+}
+
+.popup-container {
+    width: 100%;
+    height: 100%;
+    background-color: #171d1e;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    padding: 10px;
+    color: white;
+    text-align: center;
+    font-family:'Roboto', Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+.popup-container h1 {
+    margin-top: 0px;
+    margin-bottom: 0px; /* Adjust the bottom margin to reduce space */
+    text-align: center;
+}
+.popup-container p {
+    margin-top: 0px; /* Adjust the top margin to reduce space */
+    font-size: 8px; /* Example: set the font size of <p> elements */
+    color: #b3b3b3; /* Example: set the font color of <p> elements */
+    text-align: center; /* Example: align text to the left */
+    margin-bottom: 10px; /* Example: set bottom margin for spacing */
+}
+
+h1 {
+    margin-top: 0;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
